@@ -1,0 +1,1551 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Material WP\n"
+"POT-Creation-Date: 2015-10-17 20:34-0300\n"
+"PO-Revision-Date: 2015-10-17 20:34-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: material-wp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: material-wp.php:70 release/0.0.1/material-wp.php:70
+#: release/0.0.2/material-wp.php:70 release/0.0.3/material-wp.php:70
+#: release/0.0.4/material-wp.php:70 release/0.0.5/material-wp.php:70
+#: release/0.0.6/material-wp.php:70
+msgid ""
+"You are about to permanently delete the selected items.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: material-wp.php:71 release/0.0.1/material-wp.php:71
+#: release/0.0.2/material-wp.php:71 release/0.0.3/material-wp.php:71
+#: release/0.0.4/material-wp.php:71 release/0.0.5/material-wp.php:71
+#: release/0.0.6/material-wp.php:71
+msgid "Dismiss this notice."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: material-wp.php:144 material-wp.php:145 release/0.0.1/material-wp.php:142
+#: release/0.0.1/material-wp.php:143 release/0.0.2/material-wp.php:144
+#: release/0.0.2/material-wp.php:145 release/0.0.3/material-wp.php:144
+#: release/0.0.3/material-wp.php:145 release/0.0.4/material-wp.php:144
+#: release/0.0.4/material-wp.php:145 release/0.0.5/material-wp.php:144
+#: release/0.0.5/material-wp.php:145 release/0.0.6/material-wp.php:144
+#: release/0.0.6/material-wp.php:145
+msgid "Material WP"
+msgstr ""
+
+#: material-wp.php:156 release/0.0.1/material-wp.php:154
+#: release/0.0.2/material-wp.php:156 release/0.0.3/material-wp.php:156
+#: release/0.0.4/material-wp.php:156 release/0.0.5/material-wp.php:156
+#: release/0.0.6/material-wp.php:156
+msgid "Styling Settings"
+msgstr ""
+
+#: material-wp.php:162 release/0.0.6/material-wp.php:162
+msgid ""
+"Functionality <span class=\"new badge\" style=\"margin-left:5px;\"></span>"
+msgstr ""
+
+#: material-wp.php:167 release/0.0.3/material-wp.php:161
+#: release/0.0.4/material-wp.php:161 release/0.0.5/material-wp.php:161
+#: release/0.0.6/material-wp.php:167
+msgid "Custom CSS"
+msgstr ""
+
+#: material-wp.php:178 release/0.0.3/material-wp.php:172
+#: release/0.0.4/material-wp.php:172 release/0.0.5/material-wp.php:172
+#: release/0.0.6/material-wp.php:178
+msgid "Custom CSS Code"
+msgstr ""
+
+#: material-wp.php:179 release/0.0.3/material-wp.php:173
+#: release/0.0.4/material-wp.php:173 release/0.0.5/material-wp.php:173
+#: release/0.0.6/material-wp.php:179
+msgid ""
+"Enter your custom CSS code to be applied to the dashboard! SCSS syntax is "
+"supported!"
+msgstr ""
+
+#: material-wp.php:193 release/0.0.1/material-wp.php:169
+#: release/0.0.2/material-wp.php:171 release/0.0.3/material-wp.php:187
+#: release/0.0.4/material-wp.php:187 release/0.0.5/material-wp.php:187
+#: release/0.0.6/material-wp.php:193
+msgid "Primary Color"
+msgstr ""
+
+#: material-wp.php:194 release/0.0.1/material-wp.php:170
+#: release/0.0.2/material-wp.php:172 release/0.0.3/material-wp.php:188
+#: release/0.0.4/material-wp.php:188 release/0.0.5/material-wp.php:188
+#: release/0.0.6/material-wp.php:194
+msgid ""
+"This color will be used in the admin bar adn in the parallax block effect."
+msgstr ""
+
+#: material-wp.php:202 release/0.0.1/material-wp.php:178
+#: release/0.0.2/material-wp.php:180 release/0.0.3/material-wp.php:196
+#: release/0.0.4/material-wp.php:196 release/0.0.5/material-wp.php:196
+#: release/0.0.6/material-wp.php:202
+msgid "Accent Color"
+msgstr ""
+
+#: material-wp.php:203 release/0.0.1/material-wp.php:179
+#: release/0.0.2/material-wp.php:181 release/0.0.3/material-wp.php:197
+#: release/0.0.4/material-wp.php:197 release/0.0.5/material-wp.php:197
+#: release/0.0.6/material-wp.php:203
+msgid "This color will be used in the buttons and links accros the admin."
+msgstr ""
+
+#: material-wp.php:211 release/0.0.6/material-wp.php:211
+msgid "Menu Icons Radom Colors"
+msgstr ""
+
+#: material-wp.php:212 release/0.0.6/material-wp.php:212
+msgid ""
+"Use this option to enable/disable the random colors for the admin links."
+msgstr ""
+
+#: material-wp.php:220 release/0.0.6/material-wp.php:220
+msgid "Menu Icons Custom Color"
+msgstr ""
+
+#: material-wp.php:221 release/0.0.6/material-wp.php:221
+msgid ""
+"Select your own color to the admin menu icons. Note: this only works for the "
+"icon-font icons and this options is only user if the \"Menu Icons Random\n"
+"      Colors\" option is disabled."
+msgstr ""
+
+#: material-wp.php:230 release/0.0.6/material-wp.php:230
+msgid "Admin Menu Width"
+msgstr ""
+
+#: material-wp.php:231 release/0.0.3/material-wp.php:206
+#: release/0.0.4/material-wp.php:206 release/0.0.5/material-wp.php:206
+#: release/0.0.6/material-wp.php:231
+msgid "Change the width of the sidemenu."
+msgstr ""
+
+#: material-wp.php:242 release/0.0.3/material-wp.php:217
+#: release/0.0.4/material-wp.php:217 release/0.0.5/material-wp.php:217
+#: release/0.0.6/material-wp.php:242
+msgid "Parallax Block Height"
+msgstr ""
+
+#: material-wp.php:243 release/0.0.3/material-wp.php:218
+#: release/0.0.4/material-wp.php:218 release/0.0.5/material-wp.php:218
+#: release/0.0.6/material-wp.php:243
+msgid "Change the height of the parallax block."
+msgstr ""
+
+#: material-wp.php:254 release/0.0.1/material-wp.php:187
+#: release/0.0.2/material-wp.php:189 release/0.0.3/material-wp.php:229
+#: release/0.0.4/material-wp.php:229 release/0.0.5/material-wp.php:229
+#: release/0.0.6/material-wp.php:254
+msgid "Preset Parallax Block BG"
+msgstr ""
+
+#: material-wp.php:255 release/0.0.1/material-wp.php:188
+#: release/0.0.2/material-wp.php:190 release/0.0.3/material-wp.php:230
+#: release/0.0.4/material-wp.php:230 release/0.0.5/material-wp.php:230
+#: release/0.0.6/material-wp.php:255
+msgid ""
+"Select the background image of the parallax block from one of our preset "
+"images. You you preffer, you can chose your own image using the field bellow."
+msgstr ""
+
+#: material-wp.php:269 release/0.0.1/material-wp.php:202
+#: release/0.0.2/material-wp.php:204 release/0.0.3/material-wp.php:244
+#: release/0.0.4/material-wp.php:244 release/0.0.5/material-wp.php:244
+#: release/0.0.6/material-wp.php:269
+msgid "Custom Parallax Block BG"
+msgstr ""
+
+#: material-wp.php:270 release/0.0.1/material-wp.php:203
+#: release/0.0.2/material-wp.php:205 release/0.0.3/material-wp.php:245
+#: release/0.0.4/material-wp.php:245 release/0.0.5/material-wp.php:245
+#: release/0.0.6/material-wp.php:270
+msgid "Select your custom Parallax Block BG."
+msgstr ""
+
+#: material-wp.php:272 release/0.0.1/material-wp.php:205
+#: release/0.0.2/material-wp.php:207 release/0.0.3/material-wp.php:247
+#: release/0.0.4/material-wp.php:247 release/0.0.5/material-wp.php:247
+#: release/0.0.6/material-wp.php:272
+msgid "Select your custom parallax block BG."
+msgstr ""
+
+#: material-wp.php:279 release/0.0.1/material-wp.php:212
+#: release/0.0.2/material-wp.php:214 release/0.0.3/material-wp.php:254
+#: release/0.0.4/material-wp.php:254 release/0.0.5/material-wp.php:254
+#: release/0.0.6/material-wp.php:279
+msgid "Custom Logo"
+msgstr ""
+
+#: material-wp.php:280 release/0.0.1/material-wp.php:213
+#: release/0.0.2/material-wp.php:215 release/0.0.3/material-wp.php:255
+#: release/0.0.4/material-wp.php:255 release/0.0.5/material-wp.php:255
+#: release/0.0.6/material-wp.php:280
+msgid ""
+"Select the custom Logo you want to use. It will be displayed in the admin "
+"bar and in the login page as well."
+msgstr ""
+
+#: material-wp.php:282 release/0.0.1/material-wp.php:215
+#: release/0.0.2/material-wp.php:217 release/0.0.3/material-wp.php:257
+#: release/0.0.4/material-wp.php:257 release/0.0.5/material-wp.php:257
+#: release/0.0.6/material-wp.php:282
+msgid "Select your custom logo image."
+msgstr ""
+
+#: material-wp.php:298 release/0.0.6/material-wp.php:298
+msgid "Admin Menu"
+msgstr ""
+
+#: material-wp.php:299 release/0.0.6/material-wp.php:299
+msgid "Use this block to change the settings regarding the admin menu"
+msgstr ""
+
+#: material-wp.php:306 release/0.0.6/material-wp.php:306
+msgid "Menu Reordering"
+msgstr ""
+
+#: material-wp.php:307 release/0.0.6/material-wp.php:307
+msgid ""
+"If enabled, the reordering functionality will be presented to the backend "
+"users."
+msgstr ""
+
+#: material-wp.php:315 release/0.0.6/material-wp.php:315
+msgid "Menu Label"
+msgstr ""
+
+#: material-wp.php:316 release/0.0.6/material-wp.php:316
+msgid ""
+"Select the little text that appears ontop of the admin menu. Leave blank to "
+"display nothing."
+msgstr ""
+
+#: material-wp.php:319 release/0.0.6/material-wp.php:319
+msgid "Main Menu"
+msgstr ""
+
+#: material-wp.php:325 release/0.0.6/material-wp.php:325
+msgid "Menu Position"
+msgstr ""
+
+#: material-wp.php:326 release/0.0.6/material-wp.php:326
+msgid "You can position the admin menu in either side of the screen."
+msgstr ""
+
+#: material-wp.php:330 release/0.0.6/material-wp.php:330
+msgid "Left"
+msgstr ""
+
+#: material-wp.php:331 release/0.0.6/material-wp.php:331
+msgid "Right"
+msgstr ""
+
+#: material-wp.php:344 release/0.0.6/material-wp.php:344
+msgid "Admin Bar"
+msgstr ""
+
+#: material-wp.php:345 release/0.0.6/material-wp.php:345
+msgid "Use this block to change the settings regarding the admin bar"
+msgstr ""
+
+#: material-wp.php:351 release/0.0.6/material-wp.php:351
+msgid "Admin Bar in the Frontend"
+msgstr ""
+
+#: material-wp.php:352 release/0.0.6/material-wp.php:352
+msgid ""
+"You can choose to use the default WordPress admin bar styles in the frontend "
+"by disabling our custom styles."
+msgstr ""
+
+#: material-wp.php:498 release/0.0.3/material-wp.php:371
+#: release/0.0.4/material-wp.php:371 release/0.0.5/material-wp.php:376
+#: release/0.0.6/material-wp.php:498
+msgid ""
+"Something in your Material WP options may be causing SCSS compiling errors. "
+"Please verify if all of your options have correct values (a color field, for "
+"example, can not contain a value different of a hex code (#fff))"
+msgstr ""
+
+#: material-wp.php:525 release/0.0.3/material-wp.php:393
+#: release/0.0.4/material-wp.php:393 release/0.0.5/material-wp.php:398
+#: release/0.0.6/material-wp.php:525
+msgid "Your custom CSS (with SCSS) code has some syntax error. Please verify."
+msgstr ""
+
+#: material-wp.php:656 release/0.0.1/material-wp.php:422
+#: release/0.0.2/material-wp.php:424 release/0.0.3/material-wp.php:516
+#: release/0.0.4/material-wp.php:516 release/0.0.5/material-wp.php:521
+#: release/0.0.6/material-wp.php:656
+msgid "Help"
+msgstr ""
+
+#: material-wp.php:668 release/0.0.1/material-wp.php:434
+#: release/0.0.2/material-wp.php:436 release/0.0.3/material-wp.php:528
+#: release/0.0.4/material-wp.php:528 release/0.0.5/material-wp.php:533
+#: release/0.0.6/material-wp.php:668
+msgid "Settings"
+msgstr ""
+
+#: material-wp.php:680 release/0.0.1/material-wp.php:446
+#: release/0.0.2/material-wp.php:448 release/0.0.3/material-wp.php:540
+#: release/0.0.4/material-wp.php:540 release/0.0.5/material-wp.php:545
+#: release/0.0.6/material-wp.php:680
+msgid "Logout"
+msgstr ""
+
+#: modules/menu-editing/views/actions.php:6
+#: modules/menu-editing/views/actions.php:8
+#: release/0.0.1/modules/menu-editing/views/actions.php:6
+#: release/0.0.1/modules/menu-editing/views/actions.php:8
+#: release/0.0.2/modules/menu-editing/views/actions.php:6
+#: release/0.0.2/modules/menu-editing/views/actions.php:8
+#: release/0.0.3/modules/menu-editing/views/actions.php:6
+#: release/0.0.3/modules/menu-editing/views/actions.php:8
+#: release/0.0.4/modules/menu-editing/views/actions.php:6
+#: release/0.0.4/modules/menu-editing/views/actions.php:8
+#: release/0.0.5/modules/menu-editing/views/actions.php:6
+#: release/0.0.5/modules/menu-editing/views/actions.php:8
+#: release/0.0.6/modules/menu-editing/views/actions.php:6
+#: release/0.0.6/modules/menu-editing/views/actions.php:8
+msgid "Edit Menu"
+msgstr ""
+
+#: modules/menu-editing/views/actions.php:13
+#: modules/menu-editing/views/actions.php:15
+#: release/0.0.1/modules/menu-editing/views/actions.php:13
+#: release/0.0.1/modules/menu-editing/views/actions.php:15
+#: release/0.0.2/modules/menu-editing/views/actions.php:13
+#: release/0.0.2/modules/menu-editing/views/actions.php:15
+#: release/0.0.3/modules/menu-editing/views/actions.php:13
+#: release/0.0.3/modules/menu-editing/views/actions.php:15
+#: release/0.0.4/modules/menu-editing/views/actions.php:13
+#: release/0.0.4/modules/menu-editing/views/actions.php:15
+#: release/0.0.5/modules/menu-editing/views/actions.php:13
+#: release/0.0.5/modules/menu-editing/views/actions.php:15
+#: release/0.0.6/modules/menu-editing/views/actions.php:13
+#: release/0.0.6/modules/menu-editing/views/actions.php:15
+msgid "Save Menu"
+msgstr ""
+
+#: modules/menu-editing/views/actions.php:16
+#: release/0.0.1/modules/menu-editing/views/actions.php:16
+#: release/0.0.2/modules/menu-editing/views/actions.php:16
+#: release/0.0.3/modules/menu-editing/views/actions.php:16
+#: release/0.0.4/modules/menu-editing/views/actions.php:16
+#: release/0.0.5/modules/menu-editing/views/actions.php:16
+#: release/0.0.6/modules/menu-editing/views/actions.php:16
+msgid "Saving..."
+msgstr ""
+
+#: modules/menu-editing/views/actions.php:17
+#: release/0.0.1/modules/menu-editing/views/actions.php:17
+#: release/0.0.2/modules/menu-editing/views/actions.php:17
+#: release/0.0.3/modules/menu-editing/views/actions.php:17
+#: release/0.0.4/modules/menu-editing/views/actions.php:17
+#: release/0.0.5/modules/menu-editing/views/actions.php:17
+#: release/0.0.6/modules/menu-editing/views/actions.php:17
+msgid "Saved!"
+msgstr ""
+
+#: modules/menu-editing/views/actions.php:22
+#: modules/menu-editing/views/actions.php:24
+#: release/0.0.1/modules/menu-editing/views/actions.php:22
+#: release/0.0.1/modules/menu-editing/views/actions.php:24
+#: release/0.0.2/modules/menu-editing/views/actions.php:22
+#: release/0.0.2/modules/menu-editing/views/actions.php:24
+#: release/0.0.3/modules/menu-editing/views/actions.php:22
+#: release/0.0.3/modules/menu-editing/views/actions.php:24
+#: release/0.0.4/modules/menu-editing/views/actions.php:22
+#: release/0.0.4/modules/menu-editing/views/actions.php:24
+#: release/0.0.5/modules/menu-editing/views/actions.php:22
+#: release/0.0.5/modules/menu-editing/views/actions.php:24
+#: release/0.0.6/modules/menu-editing/views/actions.php:22
+#: release/0.0.6/modules/menu-editing/views/actions.php:24
+msgid "Restore Menu"
+msgstr ""
+
+#: paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#: release/0.0.1/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#: release/0.0.2/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#: release/0.0.3/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#: release/0.0.4/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#: release/0.0.5/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#: release/0.0.6/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#: release/0.0.1/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#: release/0.0.2/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#: release/0.0.3/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#: release/0.0.4/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#: release/0.0.5/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#: release/0.0.6/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.1/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.2/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.3/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.4/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.5/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.6/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.1/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.2/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.3/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.4/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.5/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+#: release/0.0.6/paradox/inc/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-admin-page.php:114
+#: release/0.0.1/paradox/inc/titan-framework/class-admin-panel.php:120
+#: release/0.0.2/paradox/inc/titan-framework/class-admin-panel.php:120
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-admin-page.php:114
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-admin-page.php:114
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-admin-page.php:114
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-admin-page.php:114
+msgid ""
+"<em>Options Page Created with <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-admin-page.php:329
+#: release/0.0.1/paradox/inc/titan-framework/class-admin-panel.php:330
+#: release/0.0.2/paradox/inc/titan-framework/class-admin-panel.php:330
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-admin-page.php:325
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-admin-page.php:325
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-admin-page.php:329
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-admin-page.php:329
+msgid "Settings saved."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-admin-page.php:331
+#: release/0.0.1/paradox/inc/titan-framework/class-admin-panel.php:332
+#: release/0.0.2/paradox/inc/titan-framework/class-admin-panel.php:332
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-admin-page.php:327
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-admin-page.php:327
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-admin-page.php:331
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-admin-page.php:331
+msgid "Settings reset to default."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-customizer.php:33
+#: paradox/inc/titan-framework/lib/class-meta-box.php:36
+#: release/0.0.1/paradox/inc/titan-framework/class-meta-box.php:37
+#: release/0.0.1/paradox/inc/titan-framework/class-theme-customizer-section.php:33
+#: release/0.0.2/paradox/inc/titan-framework/class-meta-box.php:37
+#: release/0.0.2/paradox/inc/titan-framework/class-theme-customizer-section.php:33
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-customizer.php:33
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-meta-box.php:36
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-customizer.php:33
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-meta-box.php:36
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-customizer.php:33
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-meta-box.php:36
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-customizer.php:33
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-meta-box.php:36
+msgid "More Options"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-ajax-button.php:29
+#: paradox/inc/titan-framework/lib/class-option-ajax-button.php:32
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-ajax-button.php:29
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-ajax-button.php:32
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-ajax-button.php:29
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-ajax-button.php:32
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-ajax-button.php:29
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-ajax-button.php:32
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-ajax-button.php:29
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-ajax-button.php:32
+msgid "Security check failed, please refresh the page and try again."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-ajax-button.php:86
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-ajax-button.php:86
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-ajax-button.php:86
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-ajax-button.php:86
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-ajax-button.php:86
+msgid "Something went wrong"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-ajax-button.php:91
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-ajax-button.php:91
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-ajax-button.php:91
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-ajax-button.php:91
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-ajax-button.php:91
+msgid "Click me"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-ajax-button.php:96
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-ajax-button.php:96
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-ajax-button.php:96
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-ajax-button.php:96
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-ajax-button.php:96
+msgid "Please wait..."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:131
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:130
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:130
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:131
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:131
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:131
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:131
+msgid "Your license is valid and active."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:135
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:134
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:134
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:135
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:135
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:135
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:135
+msgid "Your license is invalid."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:149
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:148
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:148
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:149
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:149
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:149
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:149
+msgid "Activate"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:150
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:149
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:149
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:150
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:150
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:150
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:150
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:155
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:154
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:154
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:155
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:155
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:155
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:155
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:160
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:160
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:160
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:160
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:160
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:160
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:160
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:370
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:349
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:349
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:370
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:370
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:370
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:370
+msgid "Theme License"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:371
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:350
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:350
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:371
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:371
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:371
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:371
+msgid "Enter your theme license key."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:372
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:351
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:351
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:372
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:372
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:372
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:372
+msgid "License Key"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:373
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:352
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:352
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:373
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:373
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:373
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:373
+msgid "License Action"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:374
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:353
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:353
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:374
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:374
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:374
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:374
+msgid "Deactivate License"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:375
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:354
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:354
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:375
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:375
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:375
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:375
+msgid "Activate License"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:376
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:388
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:355
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:367
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:355
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:367
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:376
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:388
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:376
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:388
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:376
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:388
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:376
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:388
+msgid "License status is unknown."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:377
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:356
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:356
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:377
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:377
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:377
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:377
+msgid "Renew?"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:378
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:357
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:357
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:378
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:378
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:378
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:378
+msgid "unlimited"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:379
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:358
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:358
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:379
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:379
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:379
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:379
+msgid "License key is active."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:380
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:359
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:359
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:380
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:380
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:380
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:380
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:381
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:360
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:360
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:381
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:381
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:381
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:381
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:382
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:361
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:361
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:382
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:382
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:382
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:382
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:383
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:362
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:362
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:383
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:383
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:383
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:383
+msgid "License key has expired."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:384
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:363
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:363
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:384
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:384
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:384
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:384
+msgid "License keys do not match."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:385
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:364
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:364
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:385
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:385
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:385
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:385
+msgid "License is inactive."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:386
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:365
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:365
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:386
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:386
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:386
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:386
+msgid "License key is disabled."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:387
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:366
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:366
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:387
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:387
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:387
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:387
+msgid "Site is inactive."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:389
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:368
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:368
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:389
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:389
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:389
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:389
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-edd-license.php:390
+#: release/0.0.1/paradox/inc/titan-framework/class-option-edd-license.php:369
+#: release/0.0.2/paradox/inc/titan-framework/class-option-edd-license.php:369
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-edd-license.php:390
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-edd-license.php:390
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-edd-license.php:390
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-edd-license.php:390
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-enable.php:21
+#: paradox/inc/titan-framework/lib/class-option-enable.php:100
+#: release/0.0.1/paradox/inc/titan-framework/class-option-enable.php:21
+#: release/0.0.1/paradox/inc/titan-framework/class-option-enable.php:96
+#: release/0.0.2/paradox/inc/titan-framework/class-option-enable.php:21
+#: release/0.0.2/paradox/inc/titan-framework/class-option-enable.php:96
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-enable.php:21
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-enable.php:100
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-enable.php:21
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-enable.php:100
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-enable.php:21
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-enable.php:100
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-enable.php:21
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-enable.php:100
+msgid "Enabled"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-enable.php:24
+#: paradox/inc/titan-framework/lib/class-option-enable.php:103
+#: release/0.0.1/paradox/inc/titan-framework/class-option-enable.php:24
+#: release/0.0.1/paradox/inc/titan-framework/class-option-enable.php:99
+#: release/0.0.2/paradox/inc/titan-framework/class-option-enable.php:24
+#: release/0.0.2/paradox/inc/titan-framework/class-option-enable.php:99
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-enable.php:24
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-enable.php:103
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-enable.php:24
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-enable.php:103
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-enable.php:24
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-enable.php:103
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-enable.php:24
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-enable.php:103
+msgid "Disabled"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-gallery.php:148
+#: paradox/inc/titan-framework/lib/class-option-upload.php:255
+#: release/0.0.1/paradox/inc/titan-framework/class-option-upload.php:202
+#: release/0.0.2/paradox/inc/titan-framework/class-option-upload.php:202
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-gallery.php:148
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-upload.php:255
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-gallery.php:148
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-upload.php:255
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-gallery.php:148
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-upload.php:255
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-gallery.php:148
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-upload.php:255
+msgid "Select Image"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-gallery.php:151
+#: paradox/inc/titan-framework/lib/class-option-upload.php:258
+#: release/0.0.1/paradox/inc/titan-framework/class-option-upload.php:205
+#: release/0.0.2/paradox/inc/titan-framework/class-option-upload.php:205
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-gallery.php:151
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-upload.php:258
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-gallery.php:151
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-upload.php:258
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-gallery.php:151
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-upload.php:258
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-gallery.php:151
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-upload.php:258
+msgid "Use image"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:27
+#: paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:48
+#: paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:34
+#: paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:60
+#: paradox/inc/titan-framework/lib/class-option-select-pages.php:38
+#: paradox/inc/titan-framework/lib/class-option-select-posts.php:46
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:27
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:48
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:34
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:60
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-pages.php:38
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-posts.php:46
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:27
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:48
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:34
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:60
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-pages.php:38
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-posts.php:46
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:27
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:48
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:34
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:60
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-pages.php:38
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-posts.php:46
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:27
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-multicheck-pages.php:48
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:34
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-multicheck-posts.php:60
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-pages.php:38
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-posts.php:46
+#, php-format
+msgid "Untitled %s"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-save.php:21
+#: release/0.0.1/paradox/inc/titan-framework/class-option-save.php:21
+#: release/0.0.2/paradox/inc/titan-framework/class-option-save.php:21
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-save.php:21
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-save.php:21
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-save.php:21
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-save.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-save.php:24
+#: release/0.0.1/paradox/inc/titan-framework/class-option-save.php:24
+#: release/0.0.2/paradox/inc/titan-framework/class-option-save.php:24
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-save.php:24
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-save.php:24
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-save.php:24
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-save.php:27
+#: release/0.0.1/paradox/inc/titan-framework/class-option-save.php:27
+#: release/0.0.2/paradox/inc/titan-framework/class-option-save.php:27
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-save.php:27
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-save.php:27
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-save.php:27
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option-select-categories.php:37
+#: paradox/inc/titan-framework/lib/class-option-select-categories.php:104
+#: paradox/inc/titan-framework/lib/class-option-select-pages.php:30
+#: paradox/inc/titan-framework/lib/class-option-select-posts.php:38
+#: paradox/inc/titan-framework/lib/class-option-select-posts.php:112
+#: release/0.0.1/paradox/inc/titan-framework/class-option-select-categories.php:37
+#: release/0.0.1/paradox/inc/titan-framework/class-option-select-categories.php:104
+#: release/0.0.1/paradox/inc/titan-framework/class-option-select-pages.php:30
+#: release/0.0.1/paradox/inc/titan-framework/class-option-select-posts.php:38
+#: release/0.0.1/paradox/inc/titan-framework/class-option-select-posts.php:106
+#: release/0.0.2/paradox/inc/titan-framework/class-option-select-categories.php:37
+#: release/0.0.2/paradox/inc/titan-framework/class-option-select-categories.php:104
+#: release/0.0.2/paradox/inc/titan-framework/class-option-select-pages.php:30
+#: release/0.0.2/paradox/inc/titan-framework/class-option-select-posts.php:38
+#: release/0.0.2/paradox/inc/titan-framework/class-option-select-posts.php:106
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-categories.php:37
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-categories.php:104
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-pages.php:30
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-posts.php:38
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option-select-posts.php:112
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-categories.php:37
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-categories.php:104
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-pages.php:30
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-posts.php:38
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option-select-posts.php:112
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-categories.php:37
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-categories.php:104
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-pages.php:30
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-posts.php:38
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option-select-posts.php:112
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-categories.php:37
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-categories.php:104
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-pages.php:30
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-posts.php:38
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option-select-posts.php:112
+msgid "Select"
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-option.php:43
+#: release/0.0.1/paradox/inc/titan-framework/class-option.php:43
+#: release/0.0.2/paradox/inc/titan-framework/class-option.php:43
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-option.php:43
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-option.php:43
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-option.php:43
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-option.php:43
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-titan-framework.php:159
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-titan-framework.php:158
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-titan-framework.php:158
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-titan-framework.php:159
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-titan-framework.php:159
+#, php-format
+msgid ""
+"All option IDs per namespace must be unique. The id %s has been used "
+"multiple times."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-titan-framework.php:396
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-titan-framework.php:395
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-titan-framework.php:395
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-titan-framework.php:396
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-titan-framework.php:396
+#, php-format
+msgid "%s needs a %s parameter."
+msgstr ""
+
+#: paradox/inc/titan-framework/lib/class-titan-framework.php:406
+#: release/0.0.3/paradox/inc/titan-framework/lib/class-titan-framework.php:405
+#: release/0.0.4/paradox/inc/titan-framework/lib/class-titan-framework.php:405
+#: release/0.0.5/paradox/inc/titan-framework/lib/class-titan-framework.php:406
+#: release/0.0.6/paradox/inc/titan-framework/lib/class-titan-framework.php:406
+#, php-format
+msgid "Container of type %s, does not exist."
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework-checker.php:72
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework-checker.php:84
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework-checker.php:84
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework-checker.php:72
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework-checker.php:72
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework-checker.php:72
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework-checker.php:72
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework-checker.php:75
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework-checker.php:87
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework-checker.php:87
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework-checker.php:75
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework-checker.php:75
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework-checker.php:75
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework-checker.php:75
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework-checker.php:82
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework-checker.php:106
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework-checker.php:106
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework-checker.php:82
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework-checker.php:82
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework-checker.php:82
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework-checker.php:82
+msgid "Titan Framework needs to be activated."
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework-checker.php:85
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework-checker.php:109
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework-checker.php:109
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework-checker.php:85
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework-checker.php:85
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework-checker.php:85
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework-checker.php:85
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework.php:170
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework.php:163
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework.php:163
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework.php:170
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework.php:170
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework.php:170
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework.php:170
+msgid "Documentation"
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework.php:174
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework.php:167
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework.php:167
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework.php:174
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework.php:174
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework.php:174
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework.php:174
+msgid "GitHub Repo"
+msgstr ""
+
+#: paradox/inc/titan-framework/titan-framework.php:178
+#: release/0.0.1/paradox/inc/titan-framework/titan-framework.php:171
+#: release/0.0.2/paradox/inc/titan-framework/titan-framework.php:171
+#: release/0.0.3/paradox/inc/titan-framework/titan-framework.php:178
+#: release/0.0.4/paradox/inc/titan-framework/titan-framework.php:178
+#: release/0.0.5/paradox/inc/titan-framework/titan-framework.php:178
+#: release/0.0.6/paradox/inc/titan-framework/titan-framework.php:178
+msgid "Issue Tracker"
+msgstr ""
+
+#: paradox/paradox.php:374 paradox/paradox.php:397
+#: release/0.0.1/paradox/paradox.php:339 release/0.0.1/paradox/paradox.php:362
+#: release/0.0.2/paradox/paradox.php:339 release/0.0.2/paradox/paradox.php:362
+#: release/0.0.3/paradox/paradox.php:366 release/0.0.3/paradox/paradox.php:389
+#: release/0.0.4/paradox/paradox.php:366 release/0.0.4/paradox/paradox.php:389
+#: release/0.0.5/paradox/paradox.php:374 release/0.0.5/paradox/paradox.php:397
+#: release/0.0.6/paradox/paradox.php:374 release/0.0.6/paradox/paradox.php:397
+msgid "Get Support"
+msgstr ""
+
+#: paradox/paradox.php:381 release/0.0.1/paradox/paradox.php:346
+#: release/0.0.2/paradox/paradox.php:346 release/0.0.3/paradox/paradox.php:373
+#: release/0.0.4/paradox/paradox.php:373 release/0.0.5/paradox/paradox.php:381
+#: release/0.0.6/paradox/paradox.php:381
+msgid "Rate our Plugin"
+msgstr ""
+
+#: paradox/paradox.php:460 release/0.0.1/paradox/paradox.php:425
+#: release/0.0.2/paradox/paradox.php:425 release/0.0.3/paradox/paradox.php:452
+#: release/0.0.4/paradox/paradox.php:452 release/0.0.5/paradox/paradox.php:460
+#: release/0.0.6/paradox/paradox.php:460
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: paradox/paradox.php:461 release/0.0.1/paradox/paradox.php:426
+#: release/0.0.2/paradox/paradox.php:426 release/0.0.3/paradox/paradox.php:453
+#: release/0.0.4/paradox/paradox.php:453 release/0.0.5/paradox/paradox.php:461
+#: release/0.0.6/paradox/paradox.php:461
+#, php-format
+msgid "Activate your %s to get automatic updates"
+msgstr ""
+
+#: paradox/paradox.php:473 release/0.0.1/paradox/paradox.php:438
+#: release/0.0.2/paradox/paradox.php:438 release/0.0.3/paradox/paradox.php:465
+#: release/0.0.4/paradox/paradox.php:465 release/0.0.5/paradox/paradox.php:473
+#: release/0.0.6/paradox/paradox.php:473
+msgid "Purchase Code"
+msgstr ""
+
+#: paradox/paradox.php:474 release/0.0.1/paradox/paradox.php:439
+#: release/0.0.2/paradox/paradox.php:439 release/0.0.3/paradox/paradox.php:466
+#: release/0.0.4/paradox/paradox.php:466 release/0.0.5/paradox/paradox.php:474
+#: release/0.0.6/paradox/paradox.php:474
+#, php-format
+msgid ""
+"Paste the purchase code that you received when you bought our item. Don't "
+"know where to find it? %s"
+msgstr ""
+
+#: paradox/paradox.php:487 release/0.0.6/paradox/paradox.php:487
+msgid "Join the Club!"
+msgstr ""
+
+#: paradox/paradox.php:494 release/0.0.1/paradox/paradox.php:445
+#: release/0.0.2/paradox/paradox.php:445 release/0.0.3/paradox/paradox.php:472
+#: release/0.0.4/paradox/paradox.php:472 release/0.0.5/paradox/paradox.php:480
+#: release/0.0.6/paradox/paradox.php:494
+msgid "Save"
+msgstr ""
+
+#: paradox/paradox.php:595 release/0.0.3/paradox/paradox.php:573
+#: release/0.0.4/paradox/paradox.php:573 release/0.0.5/paradox/paradox.php:581
+#: release/0.0.6/paradox/paradox.php:595
+msgid "Import / Export"
+msgstr ""
+
+#: paradox/paradox.php:596 release/0.0.3/paradox/paradox.php:574
+#: release/0.0.4/paradox/paradox.php:574 release/0.0.5/paradox/paradox.php:582
+#: release/0.0.6/paradox/paradox.php:596
+#, php-format
+msgid "Import and Export the settings of %s."
+msgstr ""
+
+#: paradox/paradox.php:606 release/0.0.3/paradox/paradox.php:584
+#: release/0.0.4/paradox/paradox.php:584 release/0.0.5/paradox/paradox.php:592
+#: release/0.0.6/paradox/paradox.php:606
+msgid "Export Settings"
+msgstr ""
+
+#: paradox/paradox.php:612 release/0.0.3/paradox/paradox.php:590
+#: release/0.0.4/paradox/paradox.php:590 release/0.0.5/paradox/paradox.php:598
+#: release/0.0.6/paradox/paradox.php:612
+msgid "Export to File"
+msgstr ""
+
+#: paradox/paradox.php:613 release/0.0.3/paradox/paradox.php:591
+#: release/0.0.4/paradox/paradox.php:591 release/0.0.5/paradox/paradox.php:599
+#: release/0.0.6/paradox/paradox.php:613
+#, php-format
+msgid ""
+"<a style=\"font-style: normal;\" class=\"button button-primary\" href=\"%s"
+"\">Export Settings</a><br><br>\n"
+"      Click in the button above to get the export file containing all the "
+"settings for this plugin."
+msgstr ""
+
+#: paradox/paradox.php:620 release/0.0.3/paradox/paradox.php:598
+#: release/0.0.4/paradox/paradox.php:598 release/0.0.5/paradox/paradox.php:606
+#: release/0.0.6/paradox/paradox.php:620
+msgid "Copy the Settings"
+msgstr ""
+
+#: paradox/paradox.php:627 paradox/paradox.php:634
+#: release/0.0.3/paradox/paradox.php:605 release/0.0.3/paradox/paradox.php:612
+#: release/0.0.4/paradox/paradox.php:605 release/0.0.4/paradox/paradox.php:612
+#: release/0.0.5/paradox/paradox.php:613 release/0.0.5/paradox/paradox.php:620
+#: release/0.0.6/paradox/paradox.php:627 release/0.0.6/paradox/paradox.php:634
+msgid "Import Settings"
+msgstr ""
+
+#: paradox/paradox.php:633 release/0.0.3/paradox/paradox.php:611
+#: release/0.0.4/paradox/paradox.php:611 release/0.0.5/paradox/paradox.php:619
+#: release/0.0.6/paradox/paradox.php:633
+msgid "Import your Settings"
+msgstr ""
+
+#: paradox/paradox.php:634 release/0.0.3/paradox/paradox.php:612
+#: release/0.0.4/paradox/paradox.php:612 release/0.0.5/paradox/paradox.php:620
+#: release/0.0.6/paradox/paradox.php:634
+msgid ""
+"Paste the contents of the JSON file you've exported (or from the textarea "
+"you've copied) to import your settings!"
+msgstr ""
+
+#: paradox/paradox.php:655 release/0.0.3/paradox/paradox.php:633
+#: release/0.0.4/paradox/paradox.php:633 release/0.0.5/paradox/paradox.php:641
+#: release/0.0.6/paradox/paradox.php:655
+msgid "The settings field to import was empty."
+msgstr ""
+
+#: paradox/paradox.php:673 release/0.0.3/paradox/paradox.php:651
+#: release/0.0.4/paradox/paradox.php:651 release/0.0.5/paradox/paradox.php:659
+#: release/0.0.6/paradox/paradox.php:673
+msgid ""
+"The JSON code you have inputed has syntax errors. The import could not be "
+"done."
+msgstr ""
+
+#: paradox/views/branding/about.php:9
+#: release/0.0.1/paradox/views/branding/about.php:9
+#: release/0.0.2/paradox/views/branding/about.php:9
+#: release/0.0.3/paradox/views/branding/about.php:9
+#: release/0.0.4/paradox/views/branding/about.php:9
+#: release/0.0.5/paradox/views/branding/about.php:9
+#: release/0.0.6/paradox/views/branding/about.php:9
+msgid "Hide any WordPress Dashboard menu or submenu."
+msgstr ""
+
+#: paradox/views/branding/about.php:10
+#: release/0.0.1/paradox/views/branding/about.php:10
+#: release/0.0.2/paradox/views/branding/about.php:10
+#: release/0.0.3/paradox/views/branding/about.php:10
+#: release/0.0.4/paradox/views/branding/about.php:10
+#: release/0.0.5/paradox/views/branding/about.php:10
+#: release/0.0.6/paradox/views/branding/about.php:10
+msgid ""
+"Sometimes we don't want the final user or users from other roles to have "
+"access to some of WordPress functionality. WP Admin Menu Manager aims to "
+"make it easier for you to hide those items from them."
+msgstr ""
+
+#: paradox/views/branding/about.php:17
+#: release/0.0.1/paradox/views/branding/about.php:17
+#: release/0.0.2/paradox/views/branding/about.php:17
+#: release/0.0.3/paradox/views/branding/about.php:17
+#: release/0.0.4/paradox/views/branding/about.php:17
+#: release/0.0.5/paradox/views/branding/about.php:17
+#: release/0.0.6/paradox/views/branding/about.php:17
+msgid "Rename any menu and submenu as well!"
+msgstr ""
+
+#: paradox/views/branding/about.php:18
+#: release/0.0.1/paradox/views/branding/about.php:18
+#: release/0.0.2/paradox/views/branding/about.php:18
+#: release/0.0.3/paradox/views/branding/about.php:18
+#: release/0.0.4/paradox/views/branding/about.php:18
+#: release/0.0.5/paradox/views/branding/about.php:18
+#: release/0.0.6/paradox/views/branding/about.php:18
+msgid ""
+"Other times all we want is the ability to change the labels of the menus and "
+"submenus. Now it's possible to do so with just one simple step, using WP "
+"Admin Menu Manager."
+msgstr ""
+
+#: paradox/views/branding/about.php:25
+#: release/0.0.1/paradox/views/branding/about.php:25
+#: release/0.0.2/paradox/views/branding/about.php:25
+#: release/0.0.3/paradox/views/branding/about.php:25
+#: release/0.0.4/paradox/views/branding/about.php:25
+#: release/0.0.5/paradox/views/branding/about.php:25
+#: release/0.0.6/paradox/views/branding/about.php:25
+msgid "Reorder the menus too!"
+msgstr ""
+
+#: paradox/views/branding/about.php:26
+#: release/0.0.1/paradox/views/branding/about.php:26
+#: release/0.0.2/paradox/views/branding/about.php:26
+#: release/0.0.3/paradox/views/branding/about.php:26
+#: release/0.0.4/paradox/views/branding/about.php:26
+#: release/0.0.5/paradox/views/branding/about.php:26
+#: release/0.0.6/paradox/views/branding/about.php:26
+msgid ""
+"Change the menu items order, as well as submenus, is also possible. And it "
+"is as simple as dragging and dropping them on the desired order!"
+msgstr ""
+
+#: paradox/views/branding/about.php:38
+#: release/0.0.1/paradox/views/branding/about.php:38
+#: release/0.0.2/paradox/views/branding/about.php:38
+#: release/0.0.3/paradox/views/branding/about.php:38
+#: release/0.0.4/paradox/views/branding/about.php:38
+#: release/0.0.5/paradox/views/branding/about.php:38
+#: release/0.0.6/paradox/views/branding/about.php:38
+msgid ""
+"Now that you know everything you can do using this plugin, click bellow to "
+"start! And please don't forgot to rate the plugin, if you like it."
+msgstr ""
+
+#: paradox/views/branding/about.php:40
+#: release/0.0.1/paradox/views/branding/about.php:40
+#: release/0.0.2/paradox/views/branding/about.php:40
+#: release/0.0.3/paradox/views/branding/about.php:40
+#: release/0.0.4/paradox/views/branding/about.php:40
+#: release/0.0.5/paradox/views/branding/about.php:40
+#: release/0.0.6/paradox/views/branding/about.php:40
+msgid "I want to start!"
+msgstr ""
+
+#: paradox/views/branding/header.php:5
+#: release/0.0.1/paradox/views/branding/header.php:5
+#: release/0.0.2/paradox/views/branding/header.php:5
+#: release/0.0.3/paradox/views/branding/header.php:5
+#: release/0.0.4/paradox/views/branding/header.php:5
+#: release/0.0.5/paradox/views/branding/header.php:5
+#: release/0.0.6/paradox/views/branding/header.php:5
+msgid "Version"
+msgstr ""
+
+#: paradox/views/branding/header.php:10
+#: release/0.0.1/paradox/views/branding/header.php:10
+#: release/0.0.2/paradox/views/branding/header.php:10
+#: release/0.0.3/paradox/views/branding/header.php:10
+#: release/0.0.4/paradox/views/branding/header.php:10
+#: release/0.0.5/paradox/views/branding/header.php:10
+#: release/0.0.6/paradox/views/branding/header.php:10
+msgid "Check out our premium plugins!"
+msgstr ""
+
+#: paradox/views/branding/header.php:18
+#: release/0.0.1/paradox/views/branding/header.php:18
+#: release/0.0.2/paradox/views/branding/header.php:18
+#: release/0.0.3/paradox/views/branding/header.php:18
+#: release/0.0.4/paradox/views/branding/header.php:18
+#: release/0.0.5/paradox/views/branding/header.php:18
+#: release/0.0.6/paradox/views/branding/header.php:18
+msgid "Show me how!"
+msgstr ""
+
+#: paradox/views/branding/header.php:19
+#: release/0.0.1/paradox/views/branding/header.php:19
+#: release/0.0.2/paradox/views/branding/header.php:19
+#: release/0.0.3/paradox/views/branding/header.php:19
+#: release/0.0.4/paradox/views/branding/header.php:19
+#: release/0.0.5/paradox/views/branding/header.php:19
+#: release/0.0.6/paradox/views/branding/header.php:19
+msgid "or continue to the plugin"
+msgstr ""
+
+#: paradox/views/branding/tab-rate.php:1
+#: release/0.0.1/paradox/views/branding/tab-rate.php:1
+#: release/0.0.2/paradox/views/branding/tab-rate.php:1
+#: release/0.0.3/paradox/views/branding/tab-rate.php:1
+#: release/0.0.4/paradox/views/branding/tab-rate.php:1
+#: release/0.0.5/paradox/views/branding/tab-rate.php:1
+#: release/0.0.6/paradox/views/branding/tab-rate.php:1
+msgid "How to rate our plugin"
+msgstr ""
+
+#: paradox/views/branding/tab-rate.php:2
+#: release/0.0.1/paradox/views/branding/tab-rate.php:2
+#: release/0.0.2/paradox/views/branding/tab-rate.php:2
+#: release/0.0.3/paradox/views/branding/tab-rate.php:2
+#: release/0.0.4/paradox/views/branding/tab-rate.php:2
+#: release/0.0.5/paradox/views/branding/tab-rate.php:2
+#: release/0.0.6/paradox/views/branding/tab-rate.php:2
+msgid ""
+"We work very hard to bring to life the best solutions to improve your "
+"WordPress experience, so, if you like what you see, let us know by rating "
+"our plugin on CodeCanyon."
+msgstr ""
+
+#: paradox/views/branding/tab-rate.php:3
+#: release/0.0.1/paradox/views/branding/tab-rate.php:3
+#: release/0.0.2/paradox/views/branding/tab-rate.php:3
+#: release/0.0.3/paradox/views/branding/tab-rate.php:3
+#: release/0.0.4/paradox/views/branding/tab-rate.php:3
+#: release/0.0.5/paradox/views/branding/tab-rate.php:3
+#: release/0.0.6/paradox/views/branding/tab-rate.php:3
+msgid ""
+"Your rating also helps us to understand what we need to improve and what do "
+"you think should be the next step of our development process."
+msgstr ""
+
+#: paradox/views/branding/tab-rate.php:4
+#: release/0.0.1/paradox/views/branding/tab-rate.php:4
+#: release/0.0.2/paradox/views/branding/tab-rate.php:4
+#: release/0.0.3/paradox/views/branding/tab-rate.php:4
+#: release/0.0.4/paradox/views/branding/tab-rate.php:4
+#: release/0.0.5/paradox/views/branding/tab-rate.php:4
+#: release/0.0.6/paradox/views/branding/tab-rate.php:4
+#, php-format
+msgid ""
+"To rate, go to your <a href=\"%s\">CodeCanyon Dashboard</a>, and click on "
+"the Downloads tab."
+msgstr ""
+
+#: paradox/views/branding/tab-rate.php:5
+#: release/0.0.1/paradox/views/branding/tab-rate.php:5
+#: release/0.0.2/paradox/views/branding/tab-rate.php:5
+#: release/0.0.3/paradox/views/branding/tab-rate.php:5
+#: release/0.0.4/paradox/views/branding/tab-rate.php:5
+#: release/0.0.5/paradox/views/branding/tab-rate.php:5
+#: release/0.0.6/paradox/views/branding/tab-rate.php:5
+#, php-format
+msgid ""
+"Search for the plugin <strong>%s</strong> and select the number of stars you "
+"want to give."
+msgstr ""
+
+#: paradox/views/branding/tab-rate.php:7
+#: release/0.0.1/paradox/views/branding/tab-rate.php:7
+#: release/0.0.2/paradox/views/branding/tab-rate.php:7
+#: release/0.0.3/paradox/views/branding/tab-rate.php:7
+#: release/0.0.4/paradox/views/branding/tab-rate.php:7
+#: release/0.0.5/paradox/views/branding/tab-rate.php:7
+#: release/0.0.6/paradox/views/branding/tab-rate.php:7
+msgid "Thank you."
+msgstr ""
+
+#: paradox/views/branding/tab-support.php:1
+#: release/0.0.1/paradox/views/branding/tab-support.php:1
+#: release/0.0.2/paradox/views/branding/tab-support.php:1
+#: release/0.0.3/paradox/views/branding/tab-support.php:1
+#: release/0.0.4/paradox/views/branding/tab-support.php:1
+#: release/0.0.5/paradox/views/branding/tab-support.php:1
+#: release/0.0.6/paradox/views/branding/tab-support.php:1
+msgid "How to get Support?"
+msgstr ""
+
+#: paradox/views/branding/tab-support.php:2
+#: release/0.0.1/paradox/views/branding/tab-support.php:2
+#: release/0.0.2/paradox/views/branding/tab-support.php:2
+#: release/0.0.3/paradox/views/branding/tab-support.php:2
+#: release/0.0.4/paradox/views/branding/tab-support.php:2
+#: release/0.0.5/paradox/views/branding/tab-support.php:2
+#: release/0.0.6/paradox/views/branding/tab-support.php:2
+msgid ""
+"We know how important it is to our customers to have their questions and "
+"issues addressed as soon as possible. We currently offer support using the "
+"comments section of our items at CodeCanyon."
+msgstr ""
+
+#: paradox/views/branding/tab-support.php:4
+#: release/0.0.1/paradox/views/branding/tab-support.php:4
+#: release/0.0.2/paradox/views/branding/tab-support.php:4
+#: release/0.0.3/paradox/views/branding/tab-support.php:4
+#: release/0.0.4/paradox/views/branding/tab-support.php:4
+#: release/0.0.5/paradox/views/branding/tab-support.php:4
+#: release/0.0.6/paradox/views/branding/tab-support.php:4
+#, php-format
+msgid ""
+"To get support to this plugin - <strong>%s</strong> -, click in the button "
+"below to post your question:"
+msgstr ""
+
+#: paradox/views/branding/tab-support.php:7
+#: release/0.0.1/paradox/views/branding/tab-support.php:7
+#: release/0.0.2/paradox/views/branding/tab-support.php:7
+#: release/0.0.3/paradox/views/branding/tab-support.php:7
+#: release/0.0.4/paradox/views/branding/tab-support.php:7
+#: release/0.0.5/paradox/views/branding/tab-support.php:7
+#: release/0.0.6/paradox/views/branding/tab-support.php:7
+msgid "Go to the support section"
+msgstr ""
+
+#: paradox/views/errors.php:2 release/0.0.3/paradox/views/errors.php:2
+#: release/0.0.4/paradox/views/errors.php:2
+#: release/0.0.5/paradox/views/errors.php:2
+#: release/0.0.6/paradox/views/errors.php:2
+#, php-format
+msgid "%s got some errors while processing your request:"
+msgstr ""
+
+#: paradox/views/newsletter-form.php:4
+#: release/0.0.6/paradox/views/newsletter-form.php:4
+msgid ""
+"If you like our products and support, feel free to join our "
+"<strong>CodeCanyon Happy Costumer Club</strong>, where we will share news "
+"about upcoming products and versions of plugins, discuss new features, "
+"provide discounts and much more!"
+msgstr ""
+
+#: paradox/views/newsletter-form.php:6
+#: release/0.0.6/paradox/views/newsletter-form.php:6
+msgid "You're just a step away from joining the club!"
+msgstr ""
+
+#: paradox/views/newsletter-form.php:7
+#: release/0.0.6/paradox/views/newsletter-form.php:7
+msgid "Join the Club"
+msgstr ""
+
+#: release/0.0.1/paradox/inc/titan-framework/class-titan-framework.php:108
+#: release/0.0.2/paradox/inc/titan-framework/class-titan-framework.php:108
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: release/0.0.1/paradox/inc/titan-framework/class-titan-framework.php:387
+#: release/0.0.1/paradox/inc/titan-framework/class-titan-framework.php:442
+#: release/0.0.2/paradox/inc/titan-framework/class-titan-framework.php:387
+#: release/0.0.2/paradox/inc/titan-framework/class-titan-framework.php:442
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+
+#: release/0.0.1/paradox/inc/titan-framework/class-titan-tracking.php:70
+#: release/0.0.2/paradox/inc/titan-framework/class-titan-tracking.php:70
+msgid ""
+"Help us make Titan Framework better by enabling your site to periodically "
+"send us tracking data. This is so we can know where and how Titan is being "
+"used."
+msgstr ""
+
+#: release/0.0.1/paradox/inc/titan-framework/class-titan-tracking.php:71
+#: release/0.0.2/paradox/inc/titan-framework/class-titan-tracking.php:71
+msgid "Help us and track"
+msgstr ""
+
+#: release/0.0.1/paradox/inc/titan-framework/class-titan-tracking.php:72
+#: release/0.0.2/paradox/inc/titan-framework/class-titan-tracking.php:72
+msgid "Don't track"
+msgstr ""
+
+#: release/0.0.1/views/parallax-block.php:35
+#: release/0.0.2/views/parallax-block.php:35
+#: release/0.0.3/views/parallax-block.php:35
+#: release/0.0.4/views/parallax-block.php:35
+#: release/0.0.5/views/parallax-block.php:35
+#: release/0.0.6/views/parallax-block.php:35 views/parallax-block.php:35
+msgid "Edit your profile"
+msgstr ""
+
+#: release/0.0.3/material-wp.php:205 release/0.0.4/material-wp.php:205
+#: release/0.0.5/material-wp.php:205
+msgid "Sidemenu Width"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://codecanyon.net/item/material-wp-material-design-dashboard-"
+"theme/12981098?ref=732"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Bring Material Design to you WordPress Dashboard."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Arindo Duque - 732"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://weare732.com/"
+msgstr ""
